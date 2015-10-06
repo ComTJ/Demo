@@ -10,3 +10,5 @@ git pull
 	git log
 	git reflog
 	git reset --hard [.....]
+
+	这是我修复的一个Bug
